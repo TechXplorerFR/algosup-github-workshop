@@ -90,3 +90,10 @@ If you want the commit to be present on branch `B`, you'd have to merge branch `
 
 * Let's prepare a release :)
 
+## Mini-game Description
+
+Control a paper plane with your mouse in a virtual world
+
+## Screenshots
+
+![screenshot](./images/paper-plane-screen.png)
